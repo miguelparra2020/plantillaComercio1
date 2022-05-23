@@ -1,19 +1,19 @@
 {
-  "title": "ACME Storefront | Powered by Next.js Commerce",
-  "titleTemplate": "%s - ACME Storefront",
-  "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+  "title": "Mi Estilo || by Dinastía Digital",
+  "titleTemplate": "%s - Mi Estilo.com",
+  "description": "miestilo.vercel.app",
   "openGraph": {
-    "title": "ACME Storefront | Powered by Next.js Commerce",
-    "description": "Next.js Commerce - https://www.nextjs.org/commerce",
+    "title": "Mi Estilo || by Dinastía Digital",
+    "description": "miestilo.vercel.app",
     "type": "website",
-    "url": "https://nextjs.org/commerce",
-    "site_name": "Next.js Commerce",
+    "url": "miestilo.vercel.app",
+    "site_name": "Mi Estilo",
     "images": [
       {
-        "url": "/card.png",
+        "url": "/icon-512x512.png",
         "width": "800",
         "height": "600",
-        "alt": "Next.js Commerce"
+        "alt": "Mi Estilo"
       }
     ]
   },
